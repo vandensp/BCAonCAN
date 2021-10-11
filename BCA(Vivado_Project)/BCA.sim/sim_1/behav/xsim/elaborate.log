@@ -1,0 +1,63 @@
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 2aa00c5ef75a4b6f94b737518ba4ed47 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot sampleIP_tl_behav xil_defaultlib.sampleIP_tl xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'bitPeriod' [/tools/CANTimingAnalysis/ch_unit/src/sampleDetect_tl.sv:130]
+WARNING: [VRFC 10-3091] actual bit length 14 differs from formal bit length 32 for port 'addr' [/tools/CANTimingAnalysis/ch_unit/src/axi_slave.sv:651]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 8 for port 'numFetches' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:246]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 8 for port 'numFetches' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:250]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 8 for port 'numFetches' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:254]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 8 for port 'numFetches' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:258]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 8 for port 'wr_data_count' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:329]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'bitPeriod' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:340]
+WARNING: [VRFC 10-3091] actual bit length 9 differs from formal bit length 8 for port 'baseAddr' [/tools/CANTimingAnalysis/ch_unit/src/recordMaster.sv:93]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/sampleDetect_tl.sv:133]
+WARNING: [VRFC 10-5021] port 'sleep' is not connected on this instance [/tools/CANTimingAnalysis/ch_unit/src/bramController.sv:212]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:310]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:313]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:316]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:319]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 23 for port 'period' [/tools/CANTimingAnalysis/ch_unit/src/devDelay_tl.sv:322]
+WARNING: [VRFC 10-5021] port 'sleep' is not connected on this instance [/tools/CANTimingAnalysis/ch_unit/src/halfDuplexBRAM.sv:502]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.dataTypes_pkg
+Compiling package xil_defaultlib.dataSizes_pkg
+Compiling module xil_defaultlib.clkUnit
+Compiling module xil_defaultlib.oneshot
+Compiling module xil_defaultlib.l_syncUnit
+Compiling module xpm.xpm_fifo_rst_default
+Compiling module xpm.xpm_fifo_reg_bit
+Compiling module xpm.xpm_counter_updn(COUNTER_WIDTH=9...
+Compiling module xpm.xpm_counter_updn(COUNTER_WIDTH=8...
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_counter_updn(COUNTER_WIDTH=2...
+Compiling module xpm.xpm_fifo_base(FIFO_MEMORY_TYPE=1...
+Compiling module xpm.xpm_fifo_sync(FIFO_MEMORY_TYPE="...
+Compiling module xil_defaultlib.bramController(BRAM_ADDR_SIZE=14...
+Compiling module xil_defaultlib.errorDetect
+Compiling module xil_defaultlib.l_interframeDetect
+Compiling module xil_defaultlib.idComparator
+Compiling module xil_defaultlib.playbackUnit
+Compiling module xil_defaultlib.sampleDetect_tl(BRAM_ADDR_SIZE=1...
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=0,ME...
+Compiling module xpm.xpm_memory_spram(MEMORY_SIZE=819...
+Compiling module xil_defaultlib.sigStorage
+Compiling module xpm.xpm_fifo_rst(SIM_ASSERT_CHK=1)
+Compiling module xpm.xpm_fifo_base(FIFO_MEMORY_TYPE=1...
+Compiling module xpm.xpm_fifo_sync(FIFO_MEMORY_TYPE="...
+Compiling module xil_defaultlib.halfDuplex
+Compiling module xil_defaultlib.syncUnit
+Compiling module xil_defaultlib.interframeDetect
+Compiling module xil_defaultlib.sizeDetect
+Compiling module xil_defaultlib.recordUnit
+Compiling module xil_defaultlib.recordMaster
+Compiling module xil_defaultlib.devDelay_tl
+Compiling module xil_defaultlib.axi_slave_module(S_BRAM_A_ADDR_S...
+Compiling module xil_defaultlib.sampleIP_tl
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sampleIP_tl_behav

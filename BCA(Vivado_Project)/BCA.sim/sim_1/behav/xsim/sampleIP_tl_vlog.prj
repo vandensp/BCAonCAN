@@ -1,0 +1,30 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/25b7/hdl/verilog" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/896c/hdl/verilog" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/34f8/hdl" --include "/tools/Xilinx/Vivado/2020.2/data/xilinx_vip/include" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/axi_slave.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/clkUnit.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/dataTypes.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/errorDetect.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/idComparator.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/interframeDetect.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/legacyIF.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/legacySync.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/oneshot.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/recordUnit.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/sizeDetect.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/syncUnit.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/signalStorage.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/sampleDetect_tl.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/recordMaster.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/playbackUnit.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/halfDuplexBRAM.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/devDelay_tl.sv" \
+"../../../../../../../../../CANTimingAnalysis/ch_unit/src/bramController.sv" \
+
+verilog xil_defaultlib  --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/25b7/hdl/verilog" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/896c/hdl/verilog" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../BCA.gen/sources_1/bd/design_1/ipshared/34f8/hdl" --include "/tools/Xilinx/Vivado/2020.2/data/xilinx_vip/include" \
+"../../../../BCA.srcs/sim_1/imports/src/sampleIP_tl.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

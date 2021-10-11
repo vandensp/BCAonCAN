@@ -1,0 +1,53 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/m01_nodes/m01_aw_node/inst/inst_mi_handler/gen_normal_area.gen_node_prog_full.inst_node_prog_full/gen_xpm_memory_fifo.inst_fifo/gen_wr.afull_r_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                  design_1_i/sampleIP_tl_0/inst/axi_slave/sampleDetector/currMeta_reg[1]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/ps7_0_axi_periph/s00_couplers/auto_pc/inst/gen_axilite.gen_b2s_conv.axilite_b2s/WR.aw_channel_0/cmd_translator_0/incr_cmd_0/axaddr_incr_reg[5]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                           design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/owPlayback/currState_reg[4]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[22]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[30]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                          design_1_i/sampleIP_tl_0/inst/axi_slave/sampleDetector/pbUnit/currState_reg[4]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/m01_nodes/m01_w_node/inst/inst_mi_handler/gen_normal_area.gen_node_prog_full.inst_node_prog_full/gen_xpm_memory_fifo.inst_fifo/gen_wr.afull_r_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/m00_nodes/m00_w_node/inst/inst_mi_handler/gen_normal_area.gen_node_prog_full.inst_node_prog_full/gen_xpm_memory_fifo.inst_fifo/gen_wr.afull_r_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1068]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[25]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1080]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[21]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/m00_nodes/m00_ar_node/inst/inst_mi_handler/gen_normal_area.gen_node_prog_full.inst_node_prog_full/gen_xpm_memory_fifo.inst_fifo/gen_wr.afull_r_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/s00_nodes/s00_r_node/inst/inst_mi_handler/gen_normal_area.gen_node_prog_full.inst_node_prog_full/gen_xpm_memory_fifo.inst_fifo/gen_rd.fifo_empty_r_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[31]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/ps7_0_axi_periph/s00_couplers/auto_pc/inst/gen_axilite.gen_b2s_conv.axilite_b2s/WR.aw_channel_0/cmd_translator_0/incr_cmd_0/axaddr_incr_reg[4]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[18]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[28]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/ps7_0_axi_periph/s00_couplers/auto_pc/inst/gen_axilite.gen_b2s_conv.axilite_b2s/WR.b_channel_0/s_bresp_acc_reg[0]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[23]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1072]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[29]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[20]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[26]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[19]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                             design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/rm/finalShiftCount_reg[4]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                       design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/gen_endpoint.r_cnt_reg[4]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1077]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[24]/D|
+|               clk_fpga_0 |               clk_fpga_0 |               design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/su/sampleOS/FSM_onehot_currState_reg[2]/D|
+|               clk_fpga_0 |               clk_fpga_0 |               design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/ar_reg_stall/state_reg[s_ready_i]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                               design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/idUnit/currState_reg[0]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                       design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/gen_endpoint.r_cnt_reg[2]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                       design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/gen_endpoint.r_cnt_reg[3]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/ps7_0_axi_periph/s00_couplers/auto_pc/inst/gen_axilite.gen_b2s_conv.axilite_b2s/WR.aw_channel_0/cmd_translator_0/incr_cmd_0/axaddr_incr_reg[3]/D|
+|               clk_fpga_0 |               clk_fpga_0 |               design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/su/sampleOS/FSM_onehot_currState_reg[1]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                       design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/gen_endpoint.r_cnt_reg[1]/D|
+|               clk_fpga_0 |               clk_fpga_0 |               design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/su/sampleOS/FSM_onehot_currState_reg[0]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                      design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/currState_reg[1]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                      design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/currState_reg[0]/D|
+|               clk_fpga_0 |               clk_fpga_0 |design_1_i/axi_smc/inst/s00_entry_pipeline/s00_transaction_regulator/inst/gen_endpoint.gen_r_singleorder.r_singleorder/any_trans_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1061]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                 design_1_i/sampleIP_tl_0/inst/axi_slave/delayUnit/rm/rU/dataValidIn_reg/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1073]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[16]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                                                design_1_i/sampleIP_tl_0/inst/axi_slave/slv_reg5_reg[17]/D|
+|               clk_fpga_0 |               clk_fpga_0 |                      design_1_i/axi_smc/inst/m00_exit_pipeline/m00_exit/inst/r_reg/m_vector_i_reg[1063]/D|
+|               clk_fpga_0 |               clk_fpga_0 |               design_1_i/axi_smc/inst/s00_entry_pipeline/s00_mmu/inst/ar_reg_stall/state_reg[s_stall_d]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
