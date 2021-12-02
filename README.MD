@@ -1,4 +1,4 @@
-BCA is the vivado project (the hardware bitstream is located in there as well.
+BCA is the vivado project (the hardware bitstream is located in there as well)
 
 ThesisFiles contains everything from Brendan Mullen's old Github repository.
 
