@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;canAttack/src/helloworld.c&apos;" deleteContents="false" description="Delete resource &apos;canAttack/src/helloworld.c&apos;" element1="/canAttack/src/helloworld.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1633444458852"/>&#x0A;<refactoring comment="Delete resource &apos;canAttack_system&apos;" deleteContents="true" description="Delete resource &apos;canAttack_system&apos;" element1="/canAttack_system" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1633444623934"/>
+</session>

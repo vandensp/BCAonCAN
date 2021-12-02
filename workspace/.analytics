@@ -1,0 +1,203 @@
+timestamp=[2021-09-15 22:43:08], mode=WORKBENCH_START, duration=0:00:05.624, duration_ms=5624, data={}
+timestamp=[2021-09-15 22:43:09], mode=WORKBENCH_UI_INIT, duration=0:00:00.499, duration_ms=499, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2021-09-15 22:43:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:03.200, duration_ms=3200, data={}
+timestamp=[2021-09-16 14:13:01], mode=WORKBENCH_START, duration=0:00:06.524, duration_ms=6524, data={}
+timestamp=[2021-09-16 14:13:01], mode=WORKBENCH_UI_INIT, duration=0:00:00.094, duration_ms=94, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2021-09-16 14:13:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.275, duration_ms=2275, data={}
+timestamp=[2021-09-28 13:06:28], mode=WORKBENCH_START, duration=0:00:06.539, duration_ms=6539, data={}
+timestamp=[2021-09-28 13:06:29], mode=WORKBENCH_UI_INIT, duration=0:00:00.191, duration_ms=191, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2021-09-28 13:06:31], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.495, duration_ms=2495, data={}
+timestamp=[2021-10-04 02:12:23], mode=WORKBENCH_START, duration=0:00:06.987, duration_ms=6987, data={}
+timestamp=[2021-10-04 02:12:23], mode=WORKBENCH_UI_INIT, duration=0:00:00.148, duration_ms=148, data={editors_count=1, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2021-10-04 02:12:26], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.715, duration_ms=2715, data={}
+timestamp=[2021-10-04 02:18:19], mode=WORKBENCH_START, duration=0:00:05.562, duration_ms=5562, data={}
+timestamp=[2021-10-04 02:18:19], mode=WORKBENCH_UI_INIT, duration=0:00:00.223, duration_ms=223, data={editors_count=1, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2021-10-04 02:18:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.343, duration_ms=2343, data={}
+timestamp=[2021-10-04 02:25:37], mode=PLATFORM_CREATION, duration=0:00:10.519, duration_ms=10519, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2021-10-04 02:29:06], mode=APP_CREATION, duration=0:00:09.033, duration_ms=9033, data={name=canAttack, project_type=sdk, os=standalone, processor=cortex-a9, runtime=cpp, platform=BSA, application_type=application}
+timestamp=[2021-10-04 11:09:59], mode=WORKBENCH_START, duration=0:00:08.562, duration_ms=8562, data={}
+timestamp=[2021-10-04 11:09:59], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.041, duration_ms=41, data={}
+timestamp=[2021-10-04 11:09:59], mode=WORKBENCH_UI_INIT, duration=0:00:00.602, duration_ms=602, data={editors_count=2, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-05 10:16:43], mode=WORKBENCH_START, duration=0:00:11.238, duration_ms=11238, data={}
+timestamp=[2021-10-05 10:16:43], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.043, duration_ms=43, data={}
+timestamp=[2021-10-05 10:16:43], mode=WORKBENCH_UI_INIT, duration=0:00:00.529, duration_ms=529, data={editors_count=3, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-05 10:21:55], mode=PLATFORM_GENERATION, duration=0:00:14.363, duration_ms=14363, data={name=BSA}
+timestamp=[2021-10-05 10:22:06], mode=BUILD, duration=0:00:00.639, duration_ms=639, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:22:14], mode=BUILD, duration=0:00:05.945, duration_ms=5945, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:34:23], mode=BUILD, duration=0:00:00.519, duration_ms=519, data={name=canAttack, configuration=Debug, clean_build=true}
+timestamp=[2021-10-05 10:34:24], mode=BUILD, duration=0:00:00.725, duration_ms=725, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:34:31], mode=BUILD, duration=0:00:05.830, duration_ms=5830, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:38:49], mode=APP_CREATION, duration=0:00:06.723, duration_ms=6723, data={name=canAttack, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=BSA, application_type=application}
+timestamp=[2021-10-05 10:40:12], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:40:19], mode=BUILD, duration=0:00:05.936, duration_ms=5936, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:49:34], mode=BUILD, duration=0:00:00.573, duration_ms=573, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 10:49:41], mode=BUILD, duration=0:00:05.936, duration_ms=5936, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-05 11:18:27], mode=WORKBENCH_START, duration=0:00:09.108, duration_ms=9108, data={}
+timestamp=[2021-10-05 11:18:27], mode=WORKBENCH_UI_INIT, duration=0:00:00.270, duration_ms=270, data={editors_count=1, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-05 11:18:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.023, duration_ms=23, data={}
+timestamp=[2021-10-06 18:47:04], mode=WORKBENCH_START, duration=0:00:09.865, duration_ms=9865, data={}
+timestamp=[2021-10-06 18:47:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.036, duration_ms=36, data={}
+timestamp=[2021-10-06 18:47:04], mode=WORKBENCH_UI_INIT, duration=0:00:00.351, duration_ms=351, data={editors_count=1, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-06 19:13:21], mode=BUILD, duration=0:00:00.819, duration_ms=819, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:13:30], mode=BUILD, duration=0:00:08.743, duration_ms=8743, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:18:22], mode=BUILD, duration=0:00:00.571, duration_ms=571, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:20:34], mode=BUILD, duration=0:00:00.638, duration_ms=638, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:21:37], mode=WORKBENCH_START, duration=0:00:08.052, duration_ms=8052, data={}
+timestamp=[2021-10-06 19:21:37], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.031, duration_ms=31, data={}
+timestamp=[2021-10-06 19:21:37], mode=WORKBENCH_UI_INIT, duration=0:00:00.745, duration_ms=745, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-06 19:21:45], mode=BUILD, duration=0:00:00.707, duration_ms=707, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:22:27], mode=BUILD, duration=0:00:00.672, duration_ms=672, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:22:47], mode=BUILD, duration=0:00:00.578, duration_ms=578, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:23:00], mode=BUILD, duration=0:00:00.620, duration_ms=620, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-06 19:55:37], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-10 20:53:42], mode=WORKBENCH_START, duration=0:00:09.771, duration_ms=9771, data={}
+timestamp=[2021-10-10 20:53:42], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.030, duration_ms=30, data={}
+timestamp=[2021-10-10 20:53:43], mode=WORKBENCH_UI_INIT, duration=0:00:00.891, duration_ms=891, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-11 11:24:12], mode=WORKBENCH_START, duration=0:00:08.585, duration_ms=8585, data={}
+timestamp=[2021-10-11 11:24:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.043, duration_ms=43, data={}
+timestamp=[2021-10-11 11:24:12], mode=WORKBENCH_UI_INIT, duration=0:00:00.813, duration_ms=813, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-11 11:35:31], mode=PLATFORM_GENERATION, duration=0:00:06.803, duration_ms=6803, data={name=BSA}
+timestamp=[2021-10-11 11:35:34], mode=BUILD, duration=0:00:01.554, duration_ms=1554, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-11 11:36:59], mode=BUILD, duration=0:00:00.576, duration_ms=576, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-11 11:37:08], mode=BUILD, duration=0:00:07.497, duration_ms=7497, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-10-12 10:18:33], mode=WORKBENCH_START, duration=0:00:10.110, duration_ms=10110, data={}
+timestamp=[2021-10-12 10:18:33], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.044, duration_ms=44, data={}
+timestamp=[2021-10-12 10:18:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.626, duration_ms=626, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-10-12 10:18:56], mode=BUILD, duration=0:00:00.769, duration_ms=769, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-12 10:26:53], mode=BUILD, duration=0:00:00.889, duration_ms=889, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-10-12 10:58:55], mode=WORKBENCH_START, duration=0:00:08.134, duration_ms=8134, data={}
+timestamp=[2021-10-12 10:58:55], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.020, duration_ms=20, data={}
+timestamp=[2021-10-12 10:58:56], mode=WORKBENCH_UI_INIT, duration=0:00:00.754, duration_ms=754, data={editors_count=6, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-02 16:32:09], mode=WORKBENCH_START, duration=0:00:09.636, duration_ms=9636, data={}
+timestamp=[2021-11-02 16:32:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2021-11-02 16:32:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.697, duration_ms=697, data={editors_count=6, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-02 16:32:41], mode=PLATFORM_GENERATION, duration=0:00:10.018, duration_ms=10018, data={name=BSA}
+timestamp=[2021-11-02 16:32:43], mode=BUILD, duration=0:00:01.238, duration_ms=1238, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-02 16:32:52], mode=BUILD, duration=0:00:07.439, duration_ms=7439, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-11 17:05:38], mode=WORKBENCH_START, duration=0:00:12.579, duration_ms=12579, data={}
+timestamp=[2021-11-11 17:05:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.043, duration_ms=43, data={}
+timestamp=[2021-11-11 17:05:39], mode=WORKBENCH_UI_INIT, duration=0:00:01.003, duration_ms=1003, data={editors_count=6, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-13 19:02:58], mode=WORKBENCH_START, duration=0:00:10.493, duration_ms=10493, data={}
+timestamp=[2021-11-13 19:02:59], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2021-11-13 19:02:59], mode=WORKBENCH_UI_INIT, duration=0:00:00.770, duration_ms=770, data={editors_count=8, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-13 20:22:52], mode=WORKBENCH_START, duration=0:00:08.726, duration_ms=8726, data={}
+timestamp=[2021-11-13 20:22:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.036, duration_ms=36, data={}
+timestamp=[2021-11-13 20:22:53], mode=WORKBENCH_UI_INIT, duration=0:00:00.827, duration_ms=827, data={editors_count=8, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-14 11:42:48], mode=WORKBENCH_START, duration=0:00:12.372, duration_ms=12372, data={}
+timestamp=[2021-11-14 11:42:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.049, duration_ms=49, data={}
+timestamp=[2021-11-14 11:42:50], mode=WORKBENCH_UI_INIT, duration=0:00:01.526, duration_ms=1526, data={editors_count=11, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-14 12:48:02], mode=PLATFORM_GENERATION, duration=0:00:10.778, duration_ms=10778, data={name=BSA}
+timestamp=[2021-11-14 12:48:05], mode=BUILD, duration=0:00:01.278, duration_ms=1278, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 12:48:15], mode=BUILD, duration=0:00:08.406, duration_ms=8406, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:53:26], mode=BUILD, duration=0:00:00.825, duration_ms=825, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:53:35], mode=BUILD, duration=0:00:07.489, duration_ms=7489, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:54:33], mode=BUILD, duration=0:00:00.520, duration_ms=520, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:54:42], mode=BUILD, duration=0:00:07.296, duration_ms=7296, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:56:25], mode=BUILD, duration=0:00:00.871, duration_ms=871, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:58:38], mode=BUILD, duration=0:00:00.923, duration_ms=923, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 13:58:51], mode=BUILD, duration=0:00:11.900, duration_ms=11900, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 14:09:34], mode=BUILD, duration=0:00:00.932, duration_ms=932, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 14:12:07], mode=BUILD, duration=0:00:00.826, duration_ms=826, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-14 14:12:16], mode=BUILD, duration=0:00:07.386, duration_ms=7386, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-25 18:27:04], mode=WORKBENCH_START, duration=0:00:09.623, duration_ms=9623, data={}
+timestamp=[2021-11-25 18:27:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.033, duration_ms=33, data={}
+timestamp=[2021-11-25 18:27:05], mode=WORKBENCH_UI_INIT, duration=0:00:00.841, duration_ms=841, data={editors_count=12, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-29 15:26:34], mode=WORKBENCH_START, duration=0:00:11.011, duration_ms=11011, data={}
+timestamp=[2021-11-29 15:26:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.029, duration_ms=29, data={}
+timestamp=[2021-11-29 15:26:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.696, duration_ms=696, data={editors_count=12, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-30 19:53:02], mode=WORKBENCH_START, duration=0:00:10.401, duration_ms=10401, data={}
+timestamp=[2021-11-30 19:53:02], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.035, duration_ms=35, data={}
+timestamp=[2021-11-30 19:53:03], mode=WORKBENCH_UI_INIT, duration=0:00:00.712, duration_ms=712, data={editors_count=12, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-11-30 20:02:48], mode=PLATFORM_GENERATION, duration=0:00:11.030, duration_ms=11030, data={name=BSA}
+timestamp=[2021-11-30 20:02:51], mode=BUILD, duration=0:00:01.251, duration_ms=1251, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:03:01], mode=BUILD, duration=0:00:07.887, duration_ms=7887, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:41:58], mode=BUILD, duration=0:00:00.873, duration_ms=873, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:42:07], mode=BUILD, duration=0:00:07.582, duration_ms=7582, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:47:07], mode=BUILD, duration=0:00:00.871, duration_ms=871, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:47:16], mode=BUILD, duration=0:00:07.286, duration_ms=7286, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:47:47], mode=BUILD, duration=0:00:00.520, duration_ms=520, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:47:56], mode=BUILD, duration=0:00:07.332, duration_ms=7332, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:49:07], mode=BUILD, duration=0:00:00.873, duration_ms=873, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:49:15], mode=BUILD, duration=0:00:07.185, duration_ms=7185, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:52:59], mode=BUILD, duration=0:00:00.825, duration_ms=825, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:53:07], mode=BUILD, duration=0:00:07.288, duration_ms=7288, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:54:30], mode=BUILD, duration=0:00:00.872, duration_ms=872, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 20:54:39], mode=BUILD, duration=0:00:07.336, duration_ms=7336, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:00:01], mode=BUILD, duration=0:00:00.848, duration_ms=848, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:00:10], mode=BUILD, duration=0:00:07.291, duration_ms=7291, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:19:54], mode=BUILD, duration=0:00:00.823, duration_ms=823, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:20:03], mode=BUILD, duration=0:00:07.386, duration_ms=7386, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:24:05], mode=BUILD, duration=0:00:00.825, duration_ms=825, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:24:13], mode=BUILD, duration=0:00:07.088, duration_ms=7088, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:35:14], mode=BUILD, duration=0:00:00.786, duration_ms=786, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:35:22], mode=BUILD, duration=0:00:07.084, duration_ms=7084, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:37:07], mode=BUILD, duration=0:00:00.773, duration_ms=773, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:37:15], mode=BUILD, duration=0:00:07.141, duration_ms=7141, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:37:21], mode=BUILD, duration=0:00:00.773, duration_ms=773, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:37:30], mode=BUILD, duration=0:00:07.184, duration_ms=7184, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:38:35], mode=BUILD, duration=0:00:00.774, duration_ms=774, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:38:43], mode=BUILD, duration=0:00:07.184, duration_ms=7184, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:40:27], mode=BUILD, duration=0:00:00.771, duration_ms=771, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:40:35], mode=BUILD, duration=0:00:07.089, duration_ms=7089, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:41:42], mode=BUILD, duration=0:00:00.820, duration_ms=820, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:41:51], mode=BUILD, duration=0:00:07.184, duration_ms=7184, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:45:43], mode=BUILD, duration=0:00:00.826, duration_ms=826, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:45:51], mode=BUILD, duration=0:00:07.082, duration_ms=7082, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:46:30], mode=BUILD, duration=0:00:00.523, duration_ms=523, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:46:39], mode=BUILD, duration=0:00:07.434, duration_ms=7434, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:48:13], mode=BUILD, duration=0:00:00.776, duration_ms=776, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:48:21], mode=BUILD, duration=0:00:07.185, duration_ms=7185, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:48:34], mode=BUILD, duration=0:00:00.781, duration_ms=781, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:50:58], mode=BUILD, duration=0:00:00.774, duration_ms=774, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:51:07], mode=BUILD, duration=0:00:07.089, duration_ms=7089, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:56:05], mode=BUILD, duration=0:00:00.824, duration_ms=824, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-11-30 21:56:13], mode=BUILD, duration=0:00:07.083, duration_ms=7083, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:06:47], mode=WORKBENCH_START, duration=0:00:08.084, duration_ms=8084, data={}
+timestamp=[2021-12-02 15:06:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.028, duration_ms=28, data={}
+timestamp=[2021-12-02 15:06:47], mode=WORKBENCH_UI_INIT, duration=0:00:00.739, duration_ms=739, data={editors_count=12, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BSA,RemoteSystemsTempFiles,canAttack,canAttack_system}
+timestamp=[2021-12-02 15:09:04], mode=BUILD, duration=0:00:00.809, duration_ms=809, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:09:15], mode=BUILD, duration=0:00:09.092, duration_ms=9092, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:20:38], mode=BUILD, duration=0:00:00.823, duration_ms=823, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:20:47], mode=BUILD, duration=0:00:07.287, duration_ms=7287, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:22:36], mode=BUILD, duration=0:00:00.777, duration_ms=777, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:22:44], mode=BUILD, duration=0:00:07.196, duration_ms=7196, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:24:37], mode=BUILD, duration=0:00:00.825, duration_ms=825, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:24:45], mode=BUILD, duration=0:00:07.182, duration_ms=7182, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:25:35], mode=BUILD, duration=0:00:00.822, duration_ms=822, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:25:43], mode=BUILD, duration=0:00:07.226, duration_ms=7226, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:27:05], mode=BUILD, duration=0:00:00.776, duration_ms=776, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:27:14], mode=BUILD, duration=0:00:07.133, duration_ms=7133, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:27:59], mode=BUILD, duration=0:00:00.773, duration_ms=773, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:28:07], mode=BUILD, duration=0:00:07.234, duration_ms=7234, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:29:18], mode=BUILD, duration=0:00:00.826, duration_ms=826, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:29:26], mode=BUILD, duration=0:00:07.285, duration_ms=7285, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:29:57], mode=BUILD, duration=0:00:00.828, duration_ms=828, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:30:05], mode=BUILD, duration=0:00:07.234, duration_ms=7234, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:30:59], mode=BUILD, duration=0:00:00.772, duration_ms=772, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:31:08], mode=BUILD, duration=0:00:07.186, duration_ms=7186, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:31:41], mode=BUILD, duration=0:00:00.828, duration_ms=828, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:31:50], mode=BUILD, duration=0:00:07.340, duration_ms=7340, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:41:37], mode=BUILD, duration=0:00:00.822, duration_ms=822, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:41:45], mode=BUILD, duration=0:00:07.236, duration_ms=7236, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:44:33], mode=BUILD, duration=0:00:00.826, duration_ms=826, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:44:42], mode=BUILD, duration=0:00:07.287, duration_ms=7287, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:45:57], mode=BUILD, duration=0:00:00.777, duration_ms=777, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:46:05], mode=BUILD, duration=0:00:07.339, duration_ms=7339, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:48:08], mode=BUILD, duration=0:00:00.823, duration_ms=823, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:48:17], mode=BUILD, duration=0:00:07.235, duration_ms=7235, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:49:25], mode=BUILD, duration=0:00:00.828, duration_ms=828, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:49:33], mode=BUILD, duration=0:00:07.287, duration_ms=7287, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:51:46], mode=BUILD, duration=0:00:00.825, duration_ms=825, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:51:54], mode=BUILD, duration=0:00:07.233, duration_ms=7233, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:52:58], mode=BUILD, duration=0:00:00.824, duration_ms=824, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:53:06], mode=BUILD, duration=0:00:07.285, duration_ms=7285, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:54:11], mode=BUILD, duration=0:00:00.774, duration_ms=774, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:54:18], mode=BUILD, duration=0:00:05.883, duration_ms=5883, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:54:48], mode=BUILD, duration=0:00:00.831, duration_ms=831, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:54:56], mode=BUILD, duration=0:00:07.289, duration_ms=7289, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:55:51], mode=BUILD, duration=0:00:00.773, duration_ms=773, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 15:55:59], mode=BUILD, duration=0:00:07.188, duration_ms=7188, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 16:02:00], mode=BUILD, duration=0:00:00.828, duration_ms=828, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 16:02:09], mode=BUILD, duration=0:00:07.287, duration_ms=7287, data={name=canAttack_system, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 16:03:06], mode=BUILD, duration=0:00:00.827, duration_ms=827, data={name=canAttack, configuration=Debug, clean_build=false}
+timestamp=[2021-12-02 16:03:14], mode=BUILD, duration=0:00:07.188, duration_ms=7188, data={name=canAttack_system, configuration=Debug, clean_build=false}
