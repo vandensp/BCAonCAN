@@ -1,0 +1,29 @@
+16:03:05 **** Incremental Build of configuration Debug for project canAttack ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+ 
+make --no-print-directory main-build
+Building file: ../src/helloworld.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I/home/vandensp/workspace/BSA/export/BSA/sw/BSA/standalone_domain/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'canDetect':
+../src/helloworld.c:1273:1: warning: control reaches end of non-void function [-Wreturn-type]
+ 1273 | }
+      | ^
+Finished building: ../src/helloworld.c
+ 
+Building target: canAttack.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L/home/vandensp/workspace/BSA/export/BSA/sw/BSA/standalone_domain/bsplib/lib -o "canAttack.elf"  ./src/helloworld.o ./src/platform.o ./src/unit.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: canAttack.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size canAttack.elf  |tee "canAttack.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 130036	   3356	  23040	 156432	  26310	canAttack.elf
+Finished building: canAttack.elf.size
+ 
+
+16:03:06 Build Finished (took 820ms)
+

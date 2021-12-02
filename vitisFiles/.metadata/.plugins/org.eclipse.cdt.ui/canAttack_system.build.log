@@ -1,0 +1,10 @@
+16:03:07 **** Incremental Build of configuration Debug for project canAttack_system ****
+make all 
+Generating bif file for the system project
+Executing command '::scw::generate_bif -xpfm /home/vandensp/workspace/BSA/export/BSA/BSA.xpfm -domains standalone_domain -bifpath /home/vandensp/workspace/canAttack_system/Debug/system.bif' on XSCT
+sdcard_gen --xpfm /home/vandensp/workspace/BSA/export/BSA/BSA.xpfm --sys_config BSA --bif /home/vandensp/workspace/canAttack_system/Debug/system.bif --bitstream /home/vandensp/workspace/canAttack/_ide/bitstream/design_1_wrapper.bit --elf /home/vandensp/workspace/canAttack/Debug/canAttack.elf,ps7_cortexa9_0
+creating BOOT.BIN using /home/vandensp/workspace/canAttack/_ide/bitstream/design_1_wrapper.bit
+Running /tools/Xilinx/Vitis/2020.2/bin/bootgen  -image /home/vandensp/workspace/canAttack_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+16:03:14 Build Finished (took 7s.183ms)
+
